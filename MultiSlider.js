@@ -555,7 +555,7 @@ export default class MultiSlider extends React.Component {
 const styles = StyleSheet.create({
   container: {
     position: 'relative',
-    height: 50,
+    height: 10,
     justifyContent: 'center'
   },
   fullTrack: {
